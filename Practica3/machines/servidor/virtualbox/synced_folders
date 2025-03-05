@@ -1,0 +1,1 @@
+{"virtualbox":{"/home/vagrant/compartido":{"guestpath":"/home/vagrant/compartido","hostpath":"C:/Users/crist/Desktop/Universidad 2025-01/Servicio telematicos/prueba/compartido","disabled":false,"__vagrantfile":true},"/vagrant":{"guestpath":"/vagrant","hostpath":"C:/Users/crist/Desktop/Universidad 2025-01/Servicio telematicos/prueba","disabled":false,"__vagrantfile":true}}}
